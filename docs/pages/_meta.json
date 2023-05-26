@@ -1,8 +1,20 @@
 {
   "index": "使用指南",
-  "docs": "文档库",
+  "docs": "知识地图",
+
+  "-- Themes": {
+    "type": "separator",
+    "title": "案例"
+  },
+
   "another": "示例页面",
   "advanced": "示例文件夹",
-  "showcase": "工具库"
+
+  "-- More": {
+    "type": "separator",
+    "title": "其它"
+  },
+
+  "showcase": "工具库",
   "about": "关于我"
 }
