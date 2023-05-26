@@ -2,7 +2,7 @@
   "index": "我的知识地图",
   "s1": "我的社交账号",
 
-  "- Aa": {
+  "-- Aa": {
     "type": "separator",
     "title": "我的作品"
   },
@@ -11,7 +11,7 @@
   "s3": "我创作的视频",
   "s4": "我开发的教程",
 
-  "- Ba": {
+  "-- Ba": {
     "type": "separator",
     "title": "日常管理"
   },
@@ -31,9 +31,15 @@
   "s11": "我的电商运营",
   "s12": "我的私域运营",
 
+  "-- Da": {
+    "type": "separator",
+    "title": "About"
+  },
+
   "docs": "我的工作室",
 
   "ai-link": {
+    "type": "page",
     "title": "我的GPT ↗",
     "href": "https://ai.shong.cc",
     "newWindow": true
