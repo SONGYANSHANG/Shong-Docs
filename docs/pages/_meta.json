@@ -39,7 +39,6 @@
   "docs": "我的工作室",
 
   "ai-link": {
-    "type": "page",
     "title": "我的GPT ↗",
     "href": "https://ai.shong.cc",
     "newWindow": true
