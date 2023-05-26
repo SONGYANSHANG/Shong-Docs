@@ -1,29 +1,8 @@
 {
-  "index": {
-    "type": "page",
-    "title": "Nextra",
-    "display": "hidden",
-    "theme": {
-      "layout": "raw"
-    }
-  },
-  "docs": {
-    "type": "page",
-    "title": "Documentation"
-  },
-  "showcase": {
-    "type": "page",
-    "title": "Showcase",
-    "theme": {
-      "typesetting": "article",
-      "layout": "full"
-    }
-  },
-  "about": {
-    "type": "page",
-    "title": "About",
-    "theme": {
-      "typesetting": "article"
-    }
-  }
+  "index": "使用指南",
+  "docs": "文档库",
+  "another": "示例页面",
+  "advanced": "示例文件夹",
+  "showcase": "工具库"
+  "about": "关于我"
 }
