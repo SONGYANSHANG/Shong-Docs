@@ -16,5 +16,14 @@
   },
 
   "showcase": "工具库",
-  "about": "关于我"
+  "about": "关于我",
+
+  "shong-ai": {
+    "type": "page",
+    "title": "人工智能",
+    "theme": {
+      "typesetting": "article",
+      "layout": "full"
+    }
+  }
 }
