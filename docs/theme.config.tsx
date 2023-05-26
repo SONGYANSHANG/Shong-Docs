@@ -43,7 +43,7 @@ const config: DocsThemeConfig = {
   },
 
   //设置存储库文档地址，用于生成“编辑此页面”链接和“反馈”链接
-  docsRepositoryBase: "https://github.com/SONGYANSHANG/shong-docs/tree/main",
+  docsRepositoryBase: "https://github.com/SONGYANSHANG/shong-docs/tree/main/docs",
 
   // 设置SEO属性
   useNextSeoProps() {
