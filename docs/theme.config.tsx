@@ -36,11 +36,11 @@ const logo = (
 );
 
 // 设置文档的存储库URL。它用于生成“编辑此页面”链接和“反馈”链接
-//const config: DocsThemeConfig = {
+const config: DocsThemeConfig = {
   // 设置页眉项目图标的URL
-//    project: {
-//      link: "https://github.com/SONGYANSHANG/shong-docs",
-//  },
+    project: {
+      link: "https://github.com/SONGYANSHANG/shong-docs",
+  },
 
   // 设置存储库文档地址，用于生成“编辑此页面”链接和“反馈”链接
   docsRepositoryBase: "https://github.com/SONGYANSHANG/shong-docs/tree/main/docs",
@@ -131,15 +131,15 @@ const logo = (
   // },
 
   // 用于在页面上添加一个指向 GitHub 上对应页面的编辑链接
-  //editLink: {
-  //  text: "Edit this page on GitHub →",
-  //},
+  editLink: {
+    text: "Edit this page on GitHub →",
+  },
 
   // 用于在页面上添加一个反馈按钮，可以让用户提供反馈信息
-  //feedback: {
-  //  content: "Question? Give us feedback →",
-  //  labels: "feedback",
-  //},
+  feedback: {
+    content: "Question? Give us feedback →",
+    labels: "feedback",
+  },
 
   // 用于配置侧边栏的样式和行为，包括标题组件的设置、默认折叠级别的设置以及是否显示切换侧边栏的按钮
   sidebar: {
