@@ -35,14 +35,14 @@ const logo = (
   </span>
 );
 
-//设置文档的存储库URL。它用于生成“编辑此页面”链接和“反馈”链接
+// 设置文档的存储库URL。它用于生成“编辑此页面”链接和“反馈”链接
 //const config: DocsThemeConfig = {
-  //设置页眉项目图标的URL
+  // 设置页眉项目图标的URL
 //    project: {
 //      link: "https://github.com/SONGYANSHANG/shong-docs",
 //  },
 
-  //设置存储库文档地址，用于生成“编辑此页面”链接和“反馈”链接
+  // 设置存储库文档地址，用于生成“编辑此页面”链接和“反馈”链接
   docsRepositoryBase: "https://github.com/SONGYANSHANG/shong-docs/tree/main/docs",
 
   // 设置SEO属性
