@@ -161,11 +161,9 @@ const logo = (
       <span>
         版权所有 {new Date().getFullYear()} ©{" "}
         <a href="https://shong.cc" target="_blank">
-          宋言商的工作室
+          宋言商的工作室 | 川公网安备51010602001791号 | 蜀ICP备2022015674号-2
         </a>
-        蜀ICP备2022015674号-2
-        </a>
-        川公网安备51010602001791号
+        .
       </span>
     ),
   },
