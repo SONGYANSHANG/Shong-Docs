@@ -160,9 +160,9 @@ const config: DocsThemeConfig = {
     text: (
       <span>
         {new Date().getFullYear()} ©{" "}
-        <a href="https://shong.cc" target="_blank">宋言商的工作室</a>
-        <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2022015674号-2</a>
-        <a href="https://www.beian.gov.cn" target="_blank">川公网安备51010602001791号</a>
+        <a href="https://shong.cc" target="_blank">宋言商的工作室 </a>
+        <a href="https://beian.miit.gov.cn/" target="_blank"> 蜀ICP备2022015674号-2 </a>
+        <a href="https://www.beian.gov.cn" target="_blank"> 川公网安备51010602001791号 </a>
       </span>
     ),
   },
